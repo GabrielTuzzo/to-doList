@@ -198,6 +198,9 @@ right:20px;
 .settings:hover .menu {
 transform:scale(1);
 }
+.settings.settings:click .menu {
+  transform:scale(1);
+  }
 
 .menu span:nth-child(1){
 position:relative;
