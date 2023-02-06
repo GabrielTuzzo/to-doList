@@ -26,7 +26,7 @@ html {
   }
 
 body{
-background:rgb(46, 45, 43);  
+background:rgb(32, 32, 31);  
 font-family: 'Nunito', sans-serif;
 }
 
@@ -51,7 +51,7 @@ overflow-y:scroll;
 
 .add-note-btn{
 all:unset;       
-background:rgb(59, 16, 129);
+background:rgb(42, 35, 51);
 border-radius:100%;
 position:fixed;
 top:85%;
